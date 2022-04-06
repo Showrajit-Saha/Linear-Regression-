@@ -1,2 +1,2 @@
-# Linear-Regression-
-Linear Regression algorithm
+# Linear-Regression
+ ML project with liear regressin
